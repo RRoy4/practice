@@ -1,2 +1,2 @@
 console.log('config.js')
-console.log('version2 lalala')
+console.log('version3 i wanna fuck makima')
